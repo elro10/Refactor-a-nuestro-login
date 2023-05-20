@@ -1,0 +1,117 @@
+[{
+    "title": "casa",
+    "description": "blabla",
+    "code": 1,
+    "price": 1200,
+    "status": true,
+    "stock": 25,
+    "category": "categoria1",
+    "thumbnail": [
+      "#.jpg",
+      "#2.jpg"
+    ]
+  },{
+    "title": "auto",
+    "description": "blabla2",
+    "code": 2,
+    "price": 10200,
+    "status": true,
+    "stock": 3,
+    "category": "categoria1",
+    "thumbnail": [
+      "#.jpg",
+      "#2.jpg"
+    ]
+  },{
+    "title": "moto",
+    "description": "blabla3",
+    "code": 3,
+    "price": 200,
+    "status": true,
+    "stock": 10,
+    "category": "categoria1",
+    "thumbnail": [
+      "#.jpg",
+      "#2.jpg"
+    ]
+  },{
+    "title": "bicicleta",
+    "description": "blabla4",
+    "code": 4,
+    "price": 250,
+    "status": true,
+    "stock": 19,
+    "category": "categoria1",
+    "thumbnail": [
+      "#.jpg",
+      "#2.jpg"
+    ]
+  },{
+    "title": "subte",
+    "description": "blabla5",
+    "code": 5,
+    "price": 300,
+    "status": true,
+    "stock": 80,
+    "category": "categoria1",
+    "thumbnail": [
+      "#.jpg",
+      "#2.jpg"
+    ]
+  },{
+    "title": "barco",
+    "description": "blabla6",
+    "code": 6,
+    "price": 400,
+    "status": true,
+    "stock": 180,
+    "category": "categoria1",
+    "thumbnail": [
+      "#.jpg",
+      "#2.jpg"
+    ]
+  },{
+    "title": "camión",
+    "description": "blabla7",
+    "code": 7,
+    "price": 500,
+    "status": true,
+    "stock": 30,
+    "category": "categoria1",
+    "thumbnail": [
+      "#.jpg",
+      "#2.jpg"
+    ]
+  },{
+    "title": "tren",
+    "description": "blabla8",
+    "code": 8,
+    "price": 600,
+    "status": true,
+    "stock": 10,
+    "category": "categoria1",
+    "thumbnail": [
+      "#.jpg",
+      "#2.jpg"
+    ]
+  },{
+    "code": 800,
+    "title": "tren",
+    "description": "blabla8",
+    "price": 600,
+    "thumbnail": [
+      "#.jpg",
+      "#2.jpg"
+    ],
+    "stock": 10,
+    "status": true,
+    "category": "categoria1"
+  },{
+    "code": 9794,
+    "title": "avion 2",
+    "description": "prod de prueba",
+    "price": 1000,
+    "thumbnail": [],
+    "stock": 21,
+    "category": "2"
+  }]
